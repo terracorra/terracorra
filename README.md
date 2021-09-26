@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=_F6E3CE&height=500&section=header&text=capsule%20render&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F6E3CE&height=500&section=header&text=Polaris%20render&fontSize=100)
 
-Name : Polaris
+NickName : Polaris
 
 Discord : Polaris:2314
 
