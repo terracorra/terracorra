@@ -2,7 +2,7 @@
 
 NickName : Polaris
 
-Discord : Polaris:2314
+Discord : Polaris#2314
 
 Location : South Korea ( Republic of Korea )
 
