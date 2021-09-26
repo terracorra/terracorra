@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=_#F6E3CE&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=_F6E3CE&height=500&section=header&text=capsule%20render&fontSize=100)
 
 Name : Polaris
 
