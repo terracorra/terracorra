@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F6E3CE&height=500&section=header&text=Polaris%20render&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=F6E3CE&height=400&section=header&text=Polaris&fontSize=100)
 
 NickName : Polaris
 
