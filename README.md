@@ -1,11 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ECCEF5&height=400&section=header&text=Polaris&fontSize=100)
+ > 응애
+ 
+![Stats](https://github-readme-stats.vercel.app/api?username=terracorra&theme=react&show_icons=true&count_private=true&cache_seconds=1800)
 
-NickName : Polaris
-
-Discord : Polaris#2314
-
-Location : South Korea ( Republic of Korea )
-
-Language : C# , Java
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=F5ECCE&height=300&section=footer&fontSize=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terracorra&theme=react&langs_count=6&layout=compact&hide=jupyter%20notebook,html,css&count_private=true)
